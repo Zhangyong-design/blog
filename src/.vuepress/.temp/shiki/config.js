@@ -1,0 +1,2 @@
+import "/Users/zhangyong/VcCodeProjects/blog/node_modules/@vuepress/highlighter-helper/lib/client/styles/base.css"
+import "/Users/zhangyong/VcCodeProjects/blog/node_modules/@vuepress/plugin-shiki/lib/client/styles/shiki.css"
